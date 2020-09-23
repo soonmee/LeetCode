@@ -17,7 +17,6 @@
 class Solution459 {
     public boolean repeatedSubstringPattern(String s) {
         
-
         return false;
     }
 }
